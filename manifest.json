@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Inches to CM",
+  "description": "Converts length in inches to centimeters",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "logo.png"
+  }
+}
