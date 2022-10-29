@@ -1,3 +1,4 @@
+console.log("I am loaded from extension");
 const inInput = document.getElementById("inches-input");
 inInput.addEventListener("keyup", (e) => {
   const inches = parseFloat(e.target.value);
